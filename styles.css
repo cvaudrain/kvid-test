@@ -64,7 +64,7 @@ form {
   /* PROJECT-SPECIFIC */
 /*  */
 .gallery-br{
-background: url("/Images/br-desktop.png");
+background: url("br-desktop.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -74,7 +74,7 @@ background: url("/Images/br-desktop.png");
 }
 @media(max-width:576px){
     .gallery-br{
-        background:url("Images/br-mobile.png")
+        background:url("br-mobile.png")
     }
 }
 /* Font */
